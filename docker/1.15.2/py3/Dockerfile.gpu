@@ -136,7 +136,7 @@ RUN pip install --no-cache-dir -U \
     keras_preprocessing==1.1.0 \
     requests==2.22.0 \
     keras==2.3.1 \
-    smdebug==0.7.1 \
+    https://s3.amazonaws.com/kannanva-smdebug-0.7/smdebug-0.7.2-py2.py3-none-any.whl \
     sagemaker==1.50.17 \
     sagemaker-experiments==0.1.7 \
     mpi4py==3.0.2 \
